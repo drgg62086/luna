@@ -27,5 +27,7 @@ only when the marketcap of Original luna > 200% marketcap of UST , UST can be ca
  
 If this game worked well, it may speed up the burning of UST and Luna
 
+and If it works, it could even be seen as a new mode of mining, “Place”to earn
+
 
 (The above content was translated with a translation tool, I don't know English very well, there may be some problems with the translation, but the general meaning should be correct)
