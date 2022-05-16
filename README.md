@@ -14,9 +14,9 @@ It’s the same as r/place
 
 But in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more pigment than others 
 
-Finally, at the end of time, the canvas will automatically be cast as an NFT and will be auctioned by the auction house in the terra system  
+Finally, at the end of time, the canvas will automatically be cast as an NFT , 
 
-The auction proceeds are then used partly for burning and partly for distribution according to the last modifier to each pixel on the canvas
+and then, the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
 
 (if using a "forked coin",player can also constantly consume ust casting forked coin ,  
 this will make its total supply more and more, and make its price lower and lower in the exchange(not the Original luna),  
