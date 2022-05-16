@@ -1,43 +1,25 @@
 
-# [Proposal] - speed up the burning by developing a Multi-person online collaborative painting game and cast the painting result as an nft
+# [Proposal] - speed up the burning by launch a multi-person online collaborative painting activities(like "r/place") and cast the painting result as an nft
 
-this game will looks like Sandbox’s land auction + REDDIT’s r/place canvas  
+this activity may require the development of some DAPP,
+or just create a smart contract that everyone can send a little luna to this address to modify specific pixel color,
 
-for example:
+And then,here can set up two modes:
+'free mode' and 'auction mode'
 
-community vote to launch a canvas that lasts for several minutes or several hours
- 
-and they can select 'Private mode' or 'Open mode' or 'Auction mode'
+in 'free mode',It’s will be the same as r/place
 
-in 'Open mode',Everyone can modify pixels by consume luna (or using a "forked coin" ,not governance coin) as 'pigment', 
-It’s the same as r/place
+but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others
 
-But in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more pigment than others 
-
-Finally, at the end of time, the canvas will automatically be cast as an NFT , 
-
-and then, the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
-
-(if using a "forked coin",player can also constantly consume ust casting forked coin ,  
-this will make its total supply more and more, and make its price lower and lower in the exchange(not the Original luna),  
-But other players can also buy cheaper forked coin on the exchanges,  
-So,the price of 'pigment' may fluctuate wildly continues   
-
-and during the whole process, UST can only be cast as "forked coin", Not Original Luna,    
-and Original Luna can be cast as UST or "forked coin"  
-only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna  
-
+Either way,at the end of time, the canvas will automatically be cast as an NFT , and the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
  
-If this game worked well, it may speed up the burning of UST and Luna
-
-and the high volatility of pigment prices may also attract a lot of people to trade
+If this activities worked well, it may speed up the burning of UST and Luna
 
 ...
 
-and If it works, it could even be seen as a new mode of mining, “Place” to earn
-
-
+and If it works, it could even be seen as a new mode of mining, “Place to earn” 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
