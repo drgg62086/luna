@@ -1,4 +1,5 @@
-# [Proposal] - speed up the burning by developing a Multi-person online collaborative painting game using luna (or using a forked coin that supports unlimited issuance)  as 'pigment' and cast the painting result as an nft
+
+# [Proposal] - speed up the burning by developing a Multi-person online collaborative painting game and cast the painting result as an nft
 
 this game will looks like Sandbox’s land auction + REDDIT’s r/place canvas  
 
@@ -8,25 +9,22 @@ community vote to launch a canvas that lasts for several minutes or several hour
  
 and they can select 'Private mode' or 'Open mode'.
 
-in 'Open mode',Everyone can modify pixels by consume the "forked coin"(not governance coin),
+in 'Open mode',Everyone can modify pixels by consume luna (or using a "forked coin" ,not governance coin) as 'pigment',
 
-But if someone want to modify a pixel that has been modified by others, they need to consume more "forked coin" than others
-
-Therefore, if player want 'bid' with others, they need to buy more and more 'pigment' on the exchanges,
-or, they can also constantly consume ust casting forked coin, 
-this will make its total supply more and more, and make its price lower and lower in the exchange,
-But other players can also buy cheaper pigment on the exchanges,
-So,the price of 'pigment' may fluctuate wildly continues ,
+But if someone want to modify a pixel that has been modified by others, they need to consume more pigment than others
 
 Finally, at the end of time, the canvas will automatically be cast as an NFT and will be auctioned by the auction house in the terra system  
 
 The auction proceeds are allocated according to the last modifier for each pixel on the canvas
- 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-During the whole process, UST can only be cast as "forked coin", Not Original Luna,  and Original Luna can be cast as UST or "forked coin"
-
+(
+if using a "forked coin",player can also constantly consume ust casting forked coin 
+this will make its total supply more and more, and make its price lower and lower in the exchange(not the Original luna),
+But other players can also buy cheaper forked coin on the exchanges,
+So,the price of 'pigment' may fluctuate wildly continues ,
+and during the whole process, UST can only be cast as "forked coin", Not Original Luna,  and Original Luna can be cast as UST or "forked coin"
 only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna
+)
+------------------------------------------------------------------------------------------------------------------------------------------
  
 If this game worked well, it may speed up the burning of UST and Luna
 
