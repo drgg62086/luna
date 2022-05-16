@@ -22,7 +22,7 @@ The auction proceeds are allocated according to the last modifier for each pixel
 
 During the whole process, UST can only be cast as "forked coin", Not Original Luna,  and Original Luna can be cast as UST or "forked coin"
 
-only when the marketcap of Original luna > marketcap of UST , UST can be cast as Original Luna
+only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna
  
 If this game worked well, it may speed up the burning of UST and Luna
 
