@@ -13,13 +13,8 @@ but in 'Auction mode' , if someone want to modify a pixel that has been modified
 
 Either way,at the end of time, the canvas will automatically be cast as an NFT to auction, and the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
   
-------------------------------------------------------------------------------------------------------------------------------------------
- 
+  
 If this activities worked well, it may speed up the burning of UST and Luna
-
-...
-
-and If it works, it could even be seen as a new mode of mining, “Place to earn” 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
