@@ -7,11 +7,12 @@ for example:
 
 community vote to launch a canvas that lasts for several minutes or several hours
  
-and they can select 'Private mode' or 'Open mode'.
+and they can select 'Private mode' or 'Open mode' or 'Auction mode'
 
-in 'Open mode',Everyone can modify pixels by consume luna (or using a "forked coin" ,not governance coin) as 'pigment',
+in 'Open mode',Everyone can modify pixels by consume luna (or using a "forked coin" ,not governance coin) as 'pigment', 
+It’s the same as r/place
 
-But if someone want to modify a pixel that has been modified by others, they need to consume more pigment than others
+But in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more pigment than others 
 
 Finally, at the end of time, the canvas will automatically be cast as an NFT and will be auctioned by the auction house in the terra system  
 
