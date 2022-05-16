@@ -1,4 +1,4 @@
-# [Proposal] - speed up the burning by developing a Multi-person online collaborative painting game and use a forked coin that supports unlimited issuance as 'pigment'  and Auction the Output 'nft' of painting
+# [Proposal] - speed up the burning by developing a Multi-person online collaborative painting game using a forked coin that supports unlimited issuance as 'pigment' and cast the painting result as an nft
 
 this game will looks like Sandbox’s land auction + REDDIT’s r/place canvas
 
