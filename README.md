@@ -1,12 +1,11 @@
-
 # [Proposal] - speed up the burning by developing a blockchain game that looks like Sandbox’s land auction + REDDIT’s r/place canvas and use a forked coin that supports unlimited issuance as 'pigment' 
 
 
 for example:
 
-Original Luna holders can consume Luna to launch a canvas that lasts for several minutes
+Original Luna holders can consume Luna to launch a canvas that lasts for several minutes or several hours
 
-and they can select 'singleplayer mode' or 'Multiplayer mode'
+and they can select 'singleplayer mode' or 'Multiplayer mode'.
 
 in 'Multiplayer mode',Everyone can modify pixels by consume the "forked coin"(not governance coin),
 
