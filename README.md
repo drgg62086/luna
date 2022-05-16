@@ -21,7 +21,10 @@ The auction proceeds are allocated according to the last modifier for each pixel
 this will make its total supply more and more, and make its price lower and lower in the exchange(not the Original luna),  
 But other players can also buy cheaper forked coin on the exchanges,  
 So,the price of 'pigment' may fluctuate wildly continues ,  
-and during the whole process, UST can only be cast as "forked coin", Not Original Luna,  and Original Luna can be cast as UST or "forked coin"  
+and the high volatility of pigment prices may also attract a lot of people to trade.  
+
+and during the whole process, UST can only be cast as "forked coin", Not Original Luna,    
+and Original Luna can be cast as UST or "forked coin"  
 only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna ) 
 ------------------------------------------------------------------------------------------------------------------------------------------
  
