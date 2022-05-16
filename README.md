@@ -37,6 +37,13 @@ and the high volatility of pigment prices may also attract a lot of people to tr
 and If it works, it could even be seen as a new mode of mining, “Place” to earn
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# notes:
+ If you think this is a great idea, please retweet it for me or start a crowdfunding campaign on Gitcoin, and I’m willing to pay a little money for it
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
