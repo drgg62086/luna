@@ -15,7 +15,7 @@ Either way,at the end of time, the canvas will automatically be cast as an NFT t
   
 If this works  well, it may speed up the burning of UST and Luna,
 ...
-and maybe, this could even create a new mining model:"place to earn"?
+and maybe, this could even create a new mining model:"place" to earn?
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
