@@ -7,11 +7,11 @@ or just create a smart contract that everyone can send a little luna to this add
 And then,here can set up two modes:
 'free mode' and 'auction mode'
 
-in 'free mode',It’s will be the same as r/place
+in 'free mode',It’s will be the same as r/place(The cooling time can be shorter than 5 minutes)
 
 but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others
 
-Either way,at the end of time, the canvas will automatically be cast as an NFT , and the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
+Either way,at the end of time, the canvas will automatically be cast as an NFT to auction, and the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas
   
 ------------------------------------------------------------------------------------------------------------------------------------------
  
