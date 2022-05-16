@@ -16,14 +16,13 @@ But if someone want to modify a pixel that has been modified by others, they nee
 Finally, at the end of time, the canvas will automatically be cast as an NFT and will be auctioned by the auction house in the terra system  
 
 The auction proceeds are allocated according to the last modifier for each pixel on the canvas
-(
-if using a "forked coin",player can also constantly consume ust casting forked coin 
+
+(if using a "forked coin",player can also constantly consume ust casting forked coin 
 this will make its total supply more and more, and make its price lower and lower in the exchange(not the Original luna),
 But other players can also buy cheaper forked coin on the exchanges,
 So,the price of 'pigment' may fluctuate wildly continues ,
 and during the whole process, UST can only be cast as "forked coin", Not Original Luna,  and Original Luna can be cast as UST or "forked coin"
-only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna
-)
+only when the marketcap of Original luna > 200% marketcap of UST , UST can be cast as Original Luna ) 
 ------------------------------------------------------------------------------------------------------------------------------------------
  
 If this game worked well, it may speed up the burning of UST and Luna
