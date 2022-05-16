@@ -19,7 +19,7 @@ and maybe, this could even create a new mining model:"place" to earn?
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# notes:
+## notes:
  If you think this is a good ideal, please retweet it or start a crowdfunding campaign on Gitcoin, and I’m willing to pay a little money for it.
  Or if you have a better idea, please send a email to me :  drgg62086@gmail.com
 
