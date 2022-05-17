@@ -17,7 +17,7 @@ if it works well, and taking advantage of the popularity of luna + the possibili
 that should attract a lot of participants, more and more popularity , and speed up the burning of UST and Luna more and more fast
 
 and even if the final NFT can be bid an incredible price(the price is based in luna and trade is also in luna),
-reach the $100 goal in a month also is not impossible
+reach the $100 goal also is not impossible
 
 ...  
 
