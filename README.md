@@ -15,7 +15,7 @@ finally,the auction proceeds (including the bonus on every trade after that) are
 if it works well, and taking advantage of the popularity of luna + the possibility of '0.00001 to 100' + the special Generate NFT mode that no one’s ever tried before, 
 that should attract a lot of participants, more and more popularity , and speed up the burning of UST and Luna more and more fast  
 
-and even if the final NFT can be bid an incredible price(the price is based in luna and trade is also in luna),  
+and if the final NFT can be bid an incredible price(the price is based in luna and trade is also in luna),  
 reach the $100 goal also is not impossible  
 
 
