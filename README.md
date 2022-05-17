@@ -25,6 +25,7 @@ reach the $100 goal also is not impossible
 
 **All it takes is to attract enough people to participate in painting activities and attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost**
 
+**and there is a special detail:The casting process of NFT is automatic, and the nft generated in this way, does not belong to anyone in the first place**
 
 
 ## note2:
@@ -41,18 +42,16 @@ and Then, in the last step, some restrictions can be added to the automatic gene
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)
 
 
-
 ## note3:
 
-Using blockchain to realize 'r/place' activities will be a simple design
+Using blockchain to realize 'r/place' activities will make NFT not need image file ,Because previous transaction is already contains all the RBG data
 
-user just need to send funds to a smart contract , it is equivalent to modifying a pixel
-
-and the nft will not need image file ,Because previous transaction is already contains all the RBG data
-
-**and there is a special detail:The casting process of NFT is automatic, and the nft generated in this way, does not belong to anyone in the first place**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
  If you think this is a good ideal, please retweet it or start a crowdfunding campaign on Gitcoin, and I’m willing to pay a little money for it.
