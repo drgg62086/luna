@@ -13,7 +13,7 @@ in 'free mode',It’s will be the same as r/place(The cooling time can be shorte
 
 but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others
 
-Either way,at the end of time, the canvas will automatically be cast as an NFT to auction, and the auction proceeds are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas,this will encourages people to get involved 
+Either way,at the end of time, the canvas will automatically be cast as an NFT to auction, and the auction proceeds (Including the bonus on every trade after that) are used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas,this will encourages people to get involved 
 
 if it works well, and taking advantage of the popularity of luna + the possibility of '0.00001 to 100' + the special cast NFT mode that no one’s ever tried before, 
 that should attract a lot of participants, more and more popularity , and speed up the burning of UST and Luna more and more fast
