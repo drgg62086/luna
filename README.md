@@ -37,7 +37,8 @@ in 'free mode',It’s will be the same as r/place(The cooling time can be shorte
 
 but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others
 
-and Then, in the last step, some restrictions can be added to the automatic generation of NFT. For example, the number of participants needs to exceed a certain amount, or the drawing results can be cast successfully until certain conditions are met(It's like calculating hash when bitcoin mining)
+and Then, in the last step, some restrictions can be added to the automatic generation of NFT. 
+For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)
 
 
 
