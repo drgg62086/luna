@@ -1,6 +1,8 @@
 
 # [Proposal] - speed up the burning by launch multi-person online collaborative painting activities(like reddit's r/place) regularly and cast the result of each painting activities as an nft
 
+(Introduction about "r/place" : https://en.wikipedia.org/wiki/R/place)
+
 this activity may require the development of some DAPP,
 or just create a smart contract that everyone can send a little luna to this address to modify some pixel color
 
