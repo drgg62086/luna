@@ -33,7 +33,7 @@ user just need to send funds to a smart contract , it is equivalent to modifying
 
 and the nft will not need image file ,Because previous transaction is already contains all the RBG data
 
-**and there is a special detail:the nft generated in this way, does not belong to anyone in the first place**
+**and there is a special detail:The casting process of NFT is automatic, and the nft generated in this way, does not belong to anyone in the first place**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
