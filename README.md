@@ -1,5 +1,5 @@
 
-# [Proposal] - speed up the burning by launch multi-person online collaborative painting activities(like reddit's r/place) regularly and Mint an nft using the result of each painting activities
+# [Proposal] - speed up the burning by launch multi-person online collaborative painting activities(like reddit's r/place) regularly and Generate NFT automatically using the result of each painting activities
 
 (Introduction about "r/place" : https://en.wikipedia.org/wiki/R/place)
 
@@ -23,12 +23,14 @@ reach the $100 goal also is not impossible
 
 ## note1:
 
-**All it takes is to attract enough people to participate in painting activities and attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost**  
-
-**and there is a special detail:The casting process of NFT is automatic, and the nft generated in this way, does not belong to anyone in the first place**
-
+**The casting process of NFT is automatic, and the nft generated in this way does not belong to anyone in the first place**
 
 ## note2:
+
+**All it takes is to attract enough people to participate in painting activities and attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost**  
+
+
+## note3:
 
 There are several interesting places to adjust.   
 For example, it can set up two modes:    
@@ -42,7 +44,7 @@ and Then, in the last step, some restrictions can be added to the automatic gene
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)  
 
 
-## note3:
+## note4:
 
 Using blockchain to realize 'r/place' activities will make NFT not need image file ,Because previous transaction is already contains all the RBG data  
 
