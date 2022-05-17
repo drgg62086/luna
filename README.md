@@ -28,7 +28,7 @@ reach the $100 goal also is not impossible
 
 Using blockchain to realize 'r/place' activities will be a simple design
 
-You just need to send funds to a smart contract , it is equivalent to modifying a pixel
+user just need to send funds to a smart contract , it is equivalent to modifying a pixel
 
 and the nft will not need image file ,Because previous transaction is already contains all the RBG data
 
