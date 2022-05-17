@@ -18,7 +18,7 @@ that should attract a lot of participants, more and more popularity , and speed 
 
 and even if the final NFT can be bid an incredible price(the price is based in luna and trade is also in luna),
 reach the $100 goal also is not impossible
-**(All it takes is to attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost)**
+**(All it takes is to attract enough people to participate in painting activities and attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost)**
 
 ...  
 
