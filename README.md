@@ -24,6 +24,7 @@ reach the $100 goal also is not impossible
 
 -----------------------------------------------------
 
+## notes:
 
 Using blockchain to realize 'r/place' activities will be a simple design
 
@@ -34,7 +35,7 @@ and the nft will not need image file ,Because previous transaction is already co
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-## notes:
+
  If you think this is a good ideal, please retweet it or start a crowdfunding campaign on Gitcoin, and I’m willing to pay a little money for it.
  Or if you have a better idea, please send a email to me :  drgg62086@gmail.com
 
