@@ -44,10 +44,13 @@ and Then, in the last step, some restrictions can be added to the automatic gene
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)  
 
 
-## note4:
+## note4(2022-5-17):
 
 Using blockchain to realize 'r/place' activities will make NFT not need image file ,Because previous transaction is already contains all the RBG data  
 
+## note5(2022-5-18):
+in fact, the fungible token was also be mint by collaboration mode(bitcoin mining)
+why can't Non-Fungible Token be created in multiplayer collaboration mode?
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
