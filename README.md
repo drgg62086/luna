@@ -49,7 +49,7 @@ For example, the number of participants needs to exceed a certain amount, and th
 Using blockchain to realize 'r/place' activities will make NFT not need image file ,Because previous transaction is already contains all the RBG data  
 
 ## note5(2022-5-18):
-in fact, the fungible token was also be mint by collaboration mode(bitcoin mining)
+in fact, the fungible token was also be mint by collaboration mode(bitcoin mining)  
 why can't Non-Fungible Token be created in multiplayer collaboration mode?
 
 ------------------------------------------------------------------------------------------------------------------------------------------
