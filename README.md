@@ -8,7 +8,8 @@ or just need to create two smart contract:
 1.user send a little luna to this address to modify some pixel color  
 2.Generate NFT regularly and auction automatically  
 
-and the auction proceeds (including the bonus on every trade after that) should be used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas,that will also encourages people to get involved  
+and the auction proceeds (including the bonus on every trade after that) should be used partly buy luna for burning and partly is allocated to participants,
+that will also encourages people to get involved  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,8 +23,12 @@ in 'free mode',It’s will be the same as r/place(The cooling time can be shorte
 
 but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others  
 
-and Then, in the last step, some restrictions can be added to the automatic generation of NFT.   
+and Then, in the step of generation of NFT, some restrictions can be added in to it.   
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)  
+
+and the final allocation process can be also added some conditions, 
+for example , the last modifier to each pixel on the canvas will get more bonus
+
 
 ## note2:
 
