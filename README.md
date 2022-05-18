@@ -10,20 +10,9 @@ or just need to create two smart contract:
 
 and the auction proceeds (including the bonus on every trade after that) should be used partly buy luna for burning and partly for distribution according to the last modifier to each pixel on the canvas,that will also encourages people to get involved  
 
-if it works well, and taking advantage of the popularity of luna + the possibility of '0.00001 to 100' + the special Generate NFT mode that no one’s ever tried before, 
-that should attract a lot of participants, more and more popularity , and speed up the burning of UST and Luna more and more fast  
-
-and if the final NFT can be bid an incredible price(if the price is based in luna and trade is also based in luna),  
-reach the $100 goal also is not impossible  
-(**All it takes is to attract enough people to participate in painting activities and attract a large number of current luna owners to bid for the NFT, and Luna can be burning in a short period of time,Without incurring too much external cost**)
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## note1:
-
-**The casting process of NFT is automatic, and the nft generated in this way does not belong to anyone in the first place**
-
-## note2:
 
 There are several interesting places to adjust.   
 For example, it can set up two modes:    
@@ -36,6 +25,9 @@ but in 'Auction mode' , if someone want to modify a pixel that has been modified
 and Then, in the last step, some restrictions can be added to the automatic generation of NFT.   
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)  
 
+## note2:
+
+**The casting process of NFT is automatic, and the nft generated in this way does not belong to anyone in the first place**
 
 ## note3(2022-5-17):
 
