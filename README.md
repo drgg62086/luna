@@ -32,7 +32,8 @@ for example , the last modifier to each pixel on the canvas will get more bonus
 
 ## note2:
 
-**The casting process of NFT is automatic, and the nft generated in this way does not belong to anyone in the first place**
+**The casting process of NFT is automatic, and the nft generated in this way does not belong to anyone in the first place,
+it also be different from the usual way of generate NFT at now**
 
 ## note3(2022-5-17):
 
