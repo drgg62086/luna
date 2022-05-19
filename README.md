@@ -1,5 +1,5 @@
 
-# [Proposal] - speed up the burning by launch multi-person online collaborative painting activities(like reddit's r/place) regularly and Generate NFT automatically using the result of each painting activities
+# [Proposal] - launch multi-person online collaborative painting activities(like reddit's r/place) regularly and Generate NFT automatically using the result of each activities
 
 (Introduction about "r/place" : https://en.wikipedia.org/wiki/R/place)
 
@@ -9,7 +9,7 @@ or just need to create two smart contract:
 2.Generate NFT regularly and auction automatically  
 
 and the auction proceeds (including the bonus on every trade after that) should be used partly buy luna for burning and partly is allocated to participants,
-that will also encourages people to get involved  
+that will also encourages people to get involved and speed up the burning 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@ that will also encourages people to get involved
 
 There are several interesting places to adjust.   
 For example, it can set up two modes:    
-'free mode' or 'auction mode'  
+'normal mode' or 'auction mode'  
 
-in 'free mode',It’s will be the same as r/place(The cooling time can be shorter than 5 minutes,it depends on the speed of transaction)  
+in 'normal mode',It’s will be the same as r/place(The cooling time can be shorter than 5 minutes,it depends on the speed of transaction)  
 
 but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others  
 
