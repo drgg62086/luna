@@ -16,12 +16,13 @@ that will also encourages people to get involved and speed up the burning
 ## note1:
 
 There are several interesting places to adjust.   
-For example, it can set up two modes:    
+For example, there are at least two modes can be set:    
 'normal mode' or 'auction mode'  
 
-in 'normal mode',It’s will be the same as r/place(The cooling time can be shorter than 5 minutes,it depends on the speed of transaction)  
+in 'normal mode',the transaction sent after will overwrite the previous one
+It's will be the same as common pixelplace game like "r/place"
 
-but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to consume more luna than others  
+but in 'Auction mode' , if someone want to modify a pixel that has been modified by others, they need to send more amount than others  
 
 and Then, in the step of generation of NFT, some restrictions can be added in to it.   
 For example, the number of participants needs to exceed a certain amount, and the casting can be successful only when the drawing results meet specific conditions (It's like calculating hash when bitcoin mining)  
@@ -42,6 +43,12 @@ Using blockchain to realize 'r/place' activities will make NFT not need image fi
 ## note4(2022-5-18):
 in fact, the fungible token was also be mint by collaboration mode(bitcoin mining)  
 why can't Non-Fungible Token be created in multiplayer collaboration mode?
+
+## note4(2022-5-29):
+I thought a new model about the overwrite rule of place pixel: 
+add a random string to the 'memo' and concatenate some summary info in transaction(for example:'block height','sender and receiver address','amount','memo') to a string  
+and calculate the hash of this string(use SHA-256)
+the smaller result will overwrite others
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
