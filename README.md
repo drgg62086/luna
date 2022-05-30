@@ -44,11 +44,11 @@ Using blockchain to realize 'r/place' activities will make NFT not need image fi
 in fact, the fungible token was also be mint by collaboration mode(bitcoin mining)    
 why can't Non-Fungible Token be created in multiplayer collaboration mode?
 
-## note4(2022-5-29):
+## note5(2022-5-29):
 I thought a new model about the overwrite rule of place pixel:   
-add a random string to the 'memo' and concatenate some summary info in transaction(for example:'block height','sender and receiver address','amount','memo') to a string    
-and calculate the hash of this string(use SHA-256)    
-the smaller result will overwrite others  
+add a random string to the 'memo' and concatenate some summary info in transaction(for example:'block height','sender and receiver address','amount','memo') to a string , and calculate the hash of this string(use SHA-256)    
+the smaller result will overwrite others.   
+this may similar to bitcoin mining
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
